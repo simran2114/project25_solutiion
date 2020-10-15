@@ -1,2 +1,1 @@
-# project25_solutiion
-class25
+# CP-2
